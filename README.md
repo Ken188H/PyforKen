@@ -1,0 +1,2 @@
+# PyforKen
+TrytomasterPythfromZero
